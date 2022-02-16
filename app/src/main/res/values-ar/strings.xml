@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FirebaseApp</string>
+    <string name="welcome">أهلا بك</string>
+    <string name="the_app_is_currently_under_maintenance_you_might_face_difficulty_in_using_some_features">\"التطبيق قيد الصيانة حالياً قد تواجه صعوبة في استخدام بعض الميزات\"</string>
+    <string name="english">إنجليزي</string>
+    <string name="arabic">Arabic</string>
+    <string name="please_select_a_language">الرجاء إختيار اللغة</string>
+    <string name="language">اللغة</string>
+    <string name="dark_theme">الوضع الليلي</string>
+</resources>

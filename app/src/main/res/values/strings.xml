@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FirebaseApp</string>
+    <string name="welcome">Welcome</string>
+    <string name="the_app_is_currently_under_maintenance_you_might_face_difficulty_in_using_some_features">The app is currently under maintenance; you might face difficulty in using some features.</string>
+    <string name="english">English</string>
+    <string name="arabic">عربي</string>
+    <string name="please_select_a_language">Please select a language</string>
+    <string name="language">Language</string>
+    <string name="dark_theme">Dark Theme</string>
+</resources>
